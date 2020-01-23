@@ -1,4 +1,4 @@
-baseurl = "https://khadeerds.github.io"
+baseurl = " https://khadeerds.github.io/DataEngineer"
 # Title of your site
 title = "Khadeer Data Engineer"
 theme = "hugo-coder"
