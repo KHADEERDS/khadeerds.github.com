@@ -13106,7 +13106,7 @@ query = template.render(states=states)
 withtest.sqlfile is as follows:
 
 select id
-{% **for** var **in** states %}
+ **for** var **in** states
 , (CASE WHEN (off_st = '{{var}}') THEN 1 ELSE 0 END) AS off_st_{{var}}
 {% endfor %}
 FROM table1
