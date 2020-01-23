@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://khadeerds.github.io/about/</loc>
+    <lastmod>2019-12-05T17:39:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/</loc>
+    <lastmod>2019-12-05T17:39:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/pyspark_tutorial/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khadeerds.github.io/tutorials/</loc>
+  </url>
+  
+</urlset>

@@ -4,6 +4,7 @@ title = "Khadeer Data Engineer"
 theme = "hugo-coder"
 DefaultContentLanguage = "en"
 defaultcontentlanguage = "en"
+publishDir="docs"
 paginate = 20 # Number of items per page in paginated lists.
 canonifyurls = true
 pygmentsstyle = "b2"
