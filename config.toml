@@ -36,7 +36,7 @@ preserveTaxonomyNames = true
     author = "Khadeer Bava Shaik"
     description = "Khadeer personal website"
     keywords = "Data Engineer ,BigData developer,Bi Analytics"
-    info = "Big-Data management and Analytics"
+    info = "Big-Data Management and Analytics"
     avatarurl = "images/pic3.JPG"
     footercontent = "**Success usually comes to those who are too busy to be looking for it**"
     dateformat = "January 2, 2006"
@@ -104,6 +104,11 @@ preserveTaxonomyNames = true
             name = "Tutorials"
             weight = 2
             url = "/Tutorials/"
+			
+			[[languages.en.menu.main]]
+            name = "PySpark"
+            weight = 2
+            url = "/PySpark_Tutorial/"
 
             [[languages.en.menu.main]]
             name = "Projects"
